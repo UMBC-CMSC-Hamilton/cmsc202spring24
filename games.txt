@@ -1,0 +1,10 @@
+
+tictactoe
+chess
+checkers
+Stratego
+Tactego
+Mancala
+battleship
+Call-of-Duty-7384
+Fallout-New-Vegas
