@@ -115,5 +115,7 @@ int main()
    if (something)
    {}
 
+   string blah[24][2];
+
     return 0;
 }
